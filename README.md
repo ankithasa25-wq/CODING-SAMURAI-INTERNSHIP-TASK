@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A simple Python weather application that allows users to check the current weather of any city using a weather API.
+A  Python weather application that allows users to check the current weather of any city using a weather API.
 
 ## ✨ Features
 
